@@ -8,7 +8,7 @@ This project provides an integration with Google Calendar API, allowing users to
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/NoorShaik683/meeting-schedular
+   git clone https://github.com/NoorShaik683/meeting-scheduler
    cd meeting-scheduler
    ```
 
